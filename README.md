@@ -12,3 +12,5 @@ Criando um Relatório de Vendas Elegante, contendo 3 páginas com Power BI, send
 - na terceira página, podemos observar penalizar 3 gráficos bem interessante. No gráfico localizado A esquerda, temos um gráfico qué capaz de encontrar os principais produtos que influenciaram ou que mais venderam na empresa, usando a inteligência artificial. No gráfico inferior A direita, temos o total de lucro por pais que é empresa obteve até o momento. No canto superior A direita temos um gráfico definiu o que mostra o total de vendas por segmento, onde podemos destacar o segmento governamental. Rei na parte superior ao lado do título do relatório temos a segmentação de data onde o usuário pode escolher o meio ou a data para saber qual foi o movimento de caixa na empresa.
 
 ![desafio 2 3](https://github.com/Adriano1976/project_creative_story/assets/17755195/4267da63-d27e-43c2-bcd8-47586cdc5537)
+
+Fonte: https://app.powerbi.com/view?r=eyJrIjoiMzZhODUwZjYtNmRlNC00OWI0LWJlNGItMDExMzUyOTAyMjcyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
